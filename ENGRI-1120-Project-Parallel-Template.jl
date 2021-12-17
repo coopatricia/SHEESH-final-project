@@ -293,7 +293,7 @@ end
 
 # ╔═╡ 80205dc2-0cd9-4543-be6c-2b3a7a5010d5
 # How many chips do we want to operate in parallel?
-number_of_chips = 1;
+number_of_chips = 154;
 
 # ╔═╡ eb091c37-29f6-45e8-8716-126c2df7f125
 # how many levels are we going to have in the separation tree?
